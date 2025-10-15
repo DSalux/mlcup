@@ -1,0 +1,15 @@
+data/
+images/
+models/
+outputs/
+weights/
+
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+.DS_Store
+
+.venv/
+.ipynb_checkpoints/
